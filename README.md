@@ -11,6 +11,8 @@ It adds
 
 Just like in the gnome shell version
 
+To install just overwrite the folders `cinnamon` and `gtk-3.0` into the themes folder of `Fluent-Dark` in `~/.themes`(make sure that you have install Fluent first!)
+
 ### Some screenshots
 
 With
