@@ -8,6 +8,7 @@ It adds
 - dialog/popups
 - darker menus
 - thinner font on panel
+
 Just like in the gnome shell version
 
 ### Some screenshots
